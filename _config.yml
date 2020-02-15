@@ -1,5 +1,5 @@
 # Site settings
-title: Ming's daily
+title: 민서의 일상 :-)
 url: "http://minggu-ha.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
