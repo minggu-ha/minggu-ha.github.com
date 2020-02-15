@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "hoho"
+date:   2020-12-30 09:00:13
+categories: jekyll update
+permalink: /archivers/hello
+---
+
+1. common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+2.어제
